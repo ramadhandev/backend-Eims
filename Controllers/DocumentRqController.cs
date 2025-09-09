@@ -46,7 +46,7 @@ namespace EIMS.Controllers
             return NoContent();
         }
 
-        [HttpDelete("{id}i")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var result = await _service.DeleteAsync(id);
