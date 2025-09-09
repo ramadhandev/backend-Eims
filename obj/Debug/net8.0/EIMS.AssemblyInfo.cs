@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EIMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50500c89f8b2bb243abd36031ee054077b9fc12")]
 [assembly: System.Reflection.AssemblyProductAttribute("EIMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EIMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
