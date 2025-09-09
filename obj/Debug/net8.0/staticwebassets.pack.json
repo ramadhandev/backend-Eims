@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\incident-reports\\733b6f14-3e04-4397-814a-a7e87abaa517.jpg",
+      "PackagePath": "staticwebassets\\uploads\\incident-reports\\733b6f14-3e04-4397-814a-a7e87abaa517.jpg"
+    },
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\incidents\\188dda6d-9d38-4986-81f9-d4d209d27301.jpg",
+      "PackagePath": "staticwebassets\\uploads\\incidents\\188dda6d-9d38-4986-81f9-d4d209d27301.jpg"
+    },
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\incidents\\b162af38-21cb-4201-82cb-316660bd040e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\incidents\\b162af38-21cb-4201-82cb-316660bd040e.jpg"
+    },
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\incidents\\ebc12d5c-3b16-486c-ad3b-da44b2548ed2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\incidents\\ebc12d5c-3b16-486c-ad3b-da44b2548ed2.jpg"
+    },
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\user-documents\\1c744a5d-708a-4753-910e-e079e89bf1dd.pdf",
+      "PackagePath": "staticwebassets\\uploads\\user-documents\\1c744a5d-708a-4753-910e-e079e89bf1dd.pdf"
+    },
+    {
+      "Id": "D:\\Project aplikasi\\EIMS\\EIMS\\wwwroot\\uploads\\user-documents\\29fd469b-d495-4198-96ee-2f1ff30f1cae.png",
+      "PackagePath": "staticwebassets\\uploads\\user-documents\\29fd469b-d495-4198-96ee-2f1ff30f1cae.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EIMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EIMS.props",
+      "PackagePath": "build\\EIMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EIMS.props",
+      "PackagePath": "buildMultiTargeting\\EIMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EIMS.props",
+      "PackagePath": "buildTransitive\\EIMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
